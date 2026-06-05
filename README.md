@@ -45,6 +45,7 @@ Please let me know of any mistakes. I'm also willing to add things as a favor. A
 * ```protocol/efi-gop.h``` *graphics output protocol*
 * ```protocol/efi-lidpp.h``` *loaded image device path protocol*
 * ```protocol/efi-lip.h``` *loaded image protocol*
+* ```protocol/efi-msp.h``` *mp services protocol*
 * ```protocol/efi-sfsp.h``` *simple file system protocol*
 * ```protocol/efi-stip.h``` *simple text input protocol*
 * ```protocol/efi-stop.h``` *simple text output protocol*
